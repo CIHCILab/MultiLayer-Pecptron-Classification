@@ -1,0 +1,9 @@
+D:\Google 雲端硬碟\實驗室\CIHCI Machine Learning Toolbox\CIHCIMachineLearningToolbox\CIHCIMachineLearningToolbox\CIHCIMachineLearningToolbox\bin\Debug\CIHCIMachineLearningToolbox.exe.config
+D:\Google 雲端硬碟\實驗室\CIHCI Machine Learning Toolbox\CIHCIMachineLearningToolbox\CIHCIMachineLearningToolbox\CIHCIMachineLearningToolbox\bin\Debug\CIHCIMachineLearningToolbox.exe
+D:\Google 雲端硬碟\實驗室\CIHCI Machine Learning Toolbox\CIHCIMachineLearningToolbox\CIHCIMachineLearningToolbox\CIHCIMachineLearningToolbox\bin\Debug\CIHCIMachineLearningToolbox.pdb
+D:\Google 雲端硬碟\實驗室\CIHCI Machine Learning Toolbox\CIHCIMachineLearningToolbox\CIHCIMachineLearningToolbox\CIHCIMachineLearningToolbox\obj\Debug\CIHCIMachineLearningToolbox.csprojResolveAssemblyReference.cache
+D:\Google 雲端硬碟\實驗室\CIHCI Machine Learning Toolbox\CIHCIMachineLearningToolbox\CIHCIMachineLearningToolbox\CIHCIMachineLearningToolbox\obj\Debug\CIHCIMachineLearningToolbox.Form1.resources
+D:\Google 雲端硬碟\實驗室\CIHCI Machine Learning Toolbox\CIHCIMachineLearningToolbox\CIHCIMachineLearningToolbox\CIHCIMachineLearningToolbox\obj\Debug\CIHCIMachineLearningToolbox.Properties.Resources.resources
+D:\Google 雲端硬碟\實驗室\CIHCI Machine Learning Toolbox\CIHCIMachineLearningToolbox\CIHCIMachineLearningToolbox\CIHCIMachineLearningToolbox\obj\Debug\CIHCIMachineLearningToolbox.csproj.GenerateResource.Cache
+D:\Google 雲端硬碟\實驗室\CIHCI Machine Learning Toolbox\CIHCIMachineLearningToolbox\CIHCIMachineLearningToolbox\CIHCIMachineLearningToolbox\obj\Debug\CIHCIMachineLearningToolbox.exe
+D:\Google 雲端硬碟\實驗室\CIHCI Machine Learning Toolbox\CIHCIMachineLearningToolbox\CIHCIMachineLearningToolbox\CIHCIMachineLearningToolbox\obj\Debug\CIHCIMachineLearningToolbox.pdb
